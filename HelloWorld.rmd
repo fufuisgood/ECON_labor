@@ -1,0 +1,10 @@
+---
+title: "Hello World"
+author: "Your Name"
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+output: pdf_document
+---
+
+# Hello World!
+
+Hello World!
